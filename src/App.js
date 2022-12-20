@@ -1,6 +1,6 @@
 import './App.css';
-import hero from "./HeroesData"
-import Card from './Card';
+import hero from "../src/components/HeroesData"
+import Card from '../src/components/Card';
 
 function App() {
   return (
